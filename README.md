@@ -15,6 +15,11 @@ Social media platforms provide valuable insights into public sentiment and trend
    - Filtered out **stopwords and internet jargon** (e.g., ‘http’, ‘rt’).
    - Converted text to **lowercase** for uniformity.
 3. **Final Dataset:** **31,077 processed tweets** ready for analysis.
+### Visualizations
+![Word Cloud](https://github.com/kartik981/Twitter-Text-Mining-for-Sentiment-Analysis-/blob/40d83febd026464f6ffb466edbeb1646dcc2d718/Word%20Cloud.png)
+![Tweet Frequency](https://github.com/kartik981/Twitter-Text-Mining-for-Sentiment-Analysis-/blob/40d83febd026464f6ffb466edbeb1646dcc2d718/Tweet%20Freq.png)
+![Trigrams](https://github.com/kartik981/Twitter-Text-Mining-for-Sentiment-Analysis-/blob/40d83febd026464f6ffb466edbeb1646dcc2d718/Trigrams.png)
+![Quadgrams](https://github.com/kartik981/Twitter-Text-Mining-for-Sentiment-Analysis-/blob/40d83febd026464f6ffb466edbeb1646dcc2d718/Quadgrams.png)
 
 ### Sentiment Analysis
 - **VADER Sentiment Analysis:**
